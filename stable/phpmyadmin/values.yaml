@@ -9,7 +9,7 @@
 ##
 image:
   registry: docker.io
-  repository: bitnami/phpmyadmin
+  repository: phpmyadmin/phpmyadmin
   tag: 4.8.5
   ## Specify a imagePullPolicy
   pullPolicy: IfNotPresent

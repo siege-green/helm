@@ -9,8 +9,8 @@ keywords:
 home: https://www.phpmyadmin.net/
 icon: https://www.phpmyadmin.net/static/images/logo.png?2ccd9afd557e
 sources:
-- https://github.com/bitnami/bitnami-docker-phpmyadmin
+- https://www.phpmyadmin.net
 maintainers:
-- name: Bitnami
-  email: containers@bitnami.com
+- name: PhpMyAdmin
+  email: contact@phpmyadmin.net
 engine: gotpl
