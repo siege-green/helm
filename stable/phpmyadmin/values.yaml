@@ -8,7 +8,6 @@
 ## ref: https://hub.docker.com/r/bitnami/phpmyadmin/tags/
 ##
 image:
-  registry: hub.docker.com
   repository: phpmyadmin/phpmyadmin
   tag: 4.8.5
   ## Specify a imagePullPolicy
