@@ -24,7 +24,7 @@ image:
 ## ref: https://github.com/bitnami/bitnami-docker-phpmyadmin#environment-variables
 ##
 service:
-  type: NodesIP
+  type: ClusterIP
   ports: 
     - 80
     - 443
