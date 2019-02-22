@@ -8,8 +8,9 @@
 ## ref: https://hub.docker.com/r/bitnami/phpmyadmin/tags/
 ##
 image:
+  registry: hub.docker.com/r
   repository: phpmyadmin/phpmyadmin
-  tag: 4.8.5
+  tag: latest
   ## Specify a imagePullPolicy
   pullPolicy: IfNotPresent
   ## Optionally specify an array of imagePullSecrets.
