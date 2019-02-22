@@ -25,9 +25,7 @@ image:
 ##
 service:
   type: ClusterIP
-  ports: 
-    - 80
-    - 443
+  ports: 443
 
 db:
   ## using default mysql port explicitly
